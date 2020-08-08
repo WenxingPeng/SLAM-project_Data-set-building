@@ -11,4 +11,4 @@ color_convertion.py and depth_convertion.py convert the respective *.json file i
 
 image.txt file converts the depth and color images into depth.txt and image.txt in a time sequence order
 
-associate.py can associate the depth.txt and image.txt
+associate.py can associate the depth.txt and image.txt(Adjust the offset and max_difference according to your camera accuracy)
